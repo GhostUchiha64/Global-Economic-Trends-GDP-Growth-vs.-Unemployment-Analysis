@@ -55,8 +55,6 @@ Final Project/
 ├── SiddarthaBandi_Global Economic Trends.twb        # Tableau workbook
 ├── SiddarthaBandi.twbx                             # Tableau packaged workbook
 ├── SiddarthaBandi_Global Economic Trends.pdf       # Final written report
-├── Global Economic Trends.docx                     # Report (Word format)
-└── GDP vs Unemployment_Siddartha Bandi.pptx        # Presentation slides
 ```
 
 ---
